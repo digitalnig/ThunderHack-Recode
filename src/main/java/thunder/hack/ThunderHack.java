@@ -80,7 +80,7 @@ public class ThunderHack implements ModInitializer {
     public static boolean isFuturePresent() {
         return FabricLoader.getInstance().getModContainer("future").isPresent();
     }
-
+// nigga
     public enum KeyListening {
         ThunderGui, ClickGui, Search, Sliders, Strings
     }
